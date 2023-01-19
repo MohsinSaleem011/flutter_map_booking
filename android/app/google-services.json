@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563001616772",
+    "project_id": "girocustomerapp",
+    "storage_bucket": "girocustomerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563001616772:android:c69a30dea16d74e3b715d1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_map_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563001616772-g0n7ehp6hae1umi1in5pnhggq2t7f2f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhjF7C4J7Pbje1UDxtLZsKy18aWbq9dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563001616772-g0n7ehp6hae1umi1in5pnhggq2t7f2f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
